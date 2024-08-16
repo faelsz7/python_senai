@@ -14,3 +14,4 @@
 |git log|verifica historico de commit|
 |git checkout -b (nome da branch)|cria uma nova branch e ja muda o nome pra ela|
 |git checkout (nome da branch ja existente)|muda de uma branch a outra|
+|git merge (nome da branch)| tras as modificaçoes da branch secundaria para a principal|
