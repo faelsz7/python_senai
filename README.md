@@ -1,5 +1,5 @@
 
- # Curso de pythob
+ # Curso de python no senai
 
 curso de capacitaçao python ofertadopela inovatech em parceria ao senai
 
