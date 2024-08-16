@@ -12,4 +12,5 @@
 |git commit -m  'descriçao do commit| cria um ponto de restauraçao do projeto|
 |git config --list | lista as configurações git|
 |git log|verifica historico de commit|
-|
+|git checkout -b (nome da branch)|cria uma nova branch e ja muda o nome pra ela|
+|git checkout (nome da branch ja existente)|muda de uma branch a outra|
