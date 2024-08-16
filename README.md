@@ -1,5 +1,5 @@
 
- # Curso de python no senai
+ # Curso de python
 
 curso de capacitaçao python ofertadopela inovatech em parceria ao senai
 
