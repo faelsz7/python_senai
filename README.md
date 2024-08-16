@@ -1,4 +1,4 @@
- # Curso de pythob
+ # Curso de python vespertino de 80 horas
 
 curso de capacitaçao python ofertadopela inovatech em parceria ao senai
 
