@@ -15,3 +15,5 @@
 |git checkout -b (nome da branch)|cria uma nova branch e ja muda o nome pra ela|
 |git checkout (nome da branch ja existente)|muda de uma branch a outra|
 |git merge (nome da branch)| tras as modificaçoes da branch secundaria para a principal|
+|git branch -d (nome da branch)| exclui a branch que voce escolher|
+|git branch -D (nome da branch)| exclui a branch sem ligar para se voce deslocou as nudanças para a branch original|
