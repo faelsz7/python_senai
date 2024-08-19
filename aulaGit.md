@@ -1,4 +1,4 @@
-# Entendendo Git
+Entendendo Git
 
 |comando|descrição|
 |-|-|
