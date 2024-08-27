@@ -129,3 +129,10 @@ Resolva utilizando a linguagem Python a lista de exercícios a abaixo, poste nes
 64. Crie uma lista com 10 números aleatórios e exiba apenas os números que são múltiplos de 3.
 
 65. Escreva um programa que solicite ao usuário uma lista de 5 números e exiba o maior e o menor número dessa lista.
+
+66. Escreva um
+algoritmo que forneça um menu para o usuário: 1-Cadastrar nome, 2- atualizar o
+nome, 3, excluir, 4-listar todos os cadastrados, ao final da operação deve dar
+uma mensagem indicando o resultado da operação e perguntando se deseja realizar
+outra operação, o seu aplicativo apenas deve encerrar quando a opção não for
+inserida.
