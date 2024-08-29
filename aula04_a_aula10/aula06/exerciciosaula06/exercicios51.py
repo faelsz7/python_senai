@@ -1,3 +1,5 @@
+#o burro aqui nao conseguiu fazer sem colar dos amiguinhos :)
+
 num = 1
 soma = 0
 
