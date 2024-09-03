@@ -12,4 +12,3 @@ elif numero1 < numero2 > numero3:
     print(f'{numero2} e maior que { numero1} e do numero {numero3}')
 elif numero1 > numero2 < numero3:
     print(f'{numero2} e maior que { numero1} e do numero {numero3}')
-

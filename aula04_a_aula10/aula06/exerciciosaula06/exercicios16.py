@@ -6,4 +6,3 @@ elif (combustível == 'disel'):
     print('5,95 o litro')
 elif (combustível == 'etanol'):
     print('4.08 o litro')
-    

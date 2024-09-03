@@ -7,3 +7,4 @@ if (palavra == 'python'):
     print('aceito')
 else:
     print('invalido')
+    

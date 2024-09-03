@@ -1,4 +1,4 @@
-#eu como um inutiu nao conseguir fazer esta porra e foi ia
+#eu como um inutil nao conseguir fazer esta porra e foi ia
 def obter_estacao(mes):
     if 1 <= mes <= 12:
         if 3 <= mes <= 5:
@@ -17,4 +17,4 @@ try:
     estacao = obter_estacao(mes)
     print(f"A estação correspondente ao mês {mes} é {estacao}.")
 except ValueError:
-    print("Entrada inválida. Digite um número válido.")
+    print("Entrada inválida. Digite um número válido.") 
